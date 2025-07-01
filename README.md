@@ -42,7 +42,7 @@ SnakeGame/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/snakemania.git
+   git clone https://github.com/Sampreet-G/snakemania.git
  2. Open index.html in your browser.
 That's it! You're ready to play.
 
@@ -64,7 +64,7 @@ That's it! You're ready to play.
 - Difficulty levels
 
 🧑‍💻 Author
-Your Name – @Saaminator-G
+Your Name – @Sampreet-G
 
 📄 License
 This project is open source and available under the MIT License.
