@@ -13,13 +13,20 @@ SnakeMania brings back the classic snake game with a modern twist. Built using H
 ## 📁 Project Structure
 SnakeGame/
 │
-├── index.html # Main HTML file
+├── index.html               # Main HTML file
+│
 ├── css/
-│ └── style.css # Game styles and layout
+│   └── style.css            # Game styles and layout
+│
 ├── js/
-│ └── index.js # Game logic and interactivity (not included here)
+│   └── index.js             # Game logic and interactivity (not included here)
+│
 ├── img/
-│ └── bg.jpg # Background image (used in CSS)
+│   └── bg.jpg               # Background image used in the game
+│
+│
+└── README.md                # Project documentation
+
 
 
 ## 🛠️ Technologies Used
@@ -56,7 +63,7 @@ That's it! You're ready to play.
 - Difficulty levels
 
 🧑‍💻 Author
-Your Name – @saaminator
+Your Name – @Saaminator-G
 
 📄 License
 This project is open source and available under the MIT License.
