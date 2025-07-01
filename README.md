@@ -11,6 +11,7 @@ SnakeMania brings back the classic snake game with a modern twist. Built using H
 - Grid-based snake movement
 
 ## 📁 Project Structure
+```
 SnakeGame/
 │
 ├── index.html               # Main HTML file
@@ -26,6 +27,7 @@ SnakeGame/
 │
 │
 └── README.md                # Project documentation
+```
 
 
 
