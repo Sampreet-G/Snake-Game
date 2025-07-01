@@ -25,7 +25,6 @@ SnakeGame/
 ├── img/
 │   └── bg.jpg               # Background image used in the game
 │
-│
 └── README.md                # Project documentation
 ```
 
